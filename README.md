@@ -15,7 +15,7 @@
 | Wireless Card       | Intel AX200 / BCM94360CS2|
 
 ## Wifi
-- BCM94360 only bluetooth work on taheo. wifi/blueetoth/airdrop working on sequoi.
+- BCM94360 only bluetooth work on Tahoe. wifi/blueetoth/airdrop working on Sequoia.
 - ax200 only working with itlwm kext and bluetooth not stabel!
   
 ## Misc before install:
