@@ -20,6 +20,7 @@
   
 ## Misc before install:
 
+- Don't forget too change SMBIOS!
 - [Gensmbios](https://github.com/corpnewt/GenSMBIOS) (better if you know MAC address for rom section in OC)
 - [Unlock CFG ](https://dortania.github.io/OpenCore-Post-Install/misc/msr-lock.html#turning-off-cfg-lock-manually)
 
