@@ -1,6 +1,6 @@
 # OpenCore Dell Latitude 5500
 
-<img width="324" height="588" alt="taheo" src="https://github.com/user-attachments/assets/528c1ef5-ee80-48e5-a08d-1fd8c1560f82" />
+<img width="324" height="588" alt="Tahoe" src="https://github.com/user-attachments/assets/898fb71d-3146-42ec-8981-22bcae95db90" />
 
 ## Specs
 
