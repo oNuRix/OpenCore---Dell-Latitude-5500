@@ -1,3 +1,4 @@
+NO more this device
 # OpenCore Dell Latitude 5500
 
 <img width="324" height="588" alt="Tahoe" src="https://github.com/user-attachments/assets/898fb71d-3146-42ec-8981-22bcae95db90" />
